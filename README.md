@@ -1,4 +1,5 @@
-¡Bienvenidos sean todos los buenaventurados que por navegar en internet se han entrado con el proyecto **AguaCiencia 💧**!
+
+💧 ¡Bienvenidos al proyecto AguaCiencia! 💦
 ---
 
 
