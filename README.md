@@ -46,7 +46,8 @@ Diseñar un producto capaz de monitorear y regular el uso del agua con el fin de
 Detalles avanzados 🔑
 ---
 
-[Anteproyecto AguaCiencia.docx](https://github.com/user-attachments/files/21856220/Anteproyecto.AguaCiencia.3.docx)
+
+[Anteproyecto AguaCiencia.docx](https://github.com/user-attachments/files/21960221/Anteproyecto.AguaCiencia.3.docx)
 
 
 
