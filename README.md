@@ -52,6 +52,19 @@ Detalles avanzados 🔑
 
 
 
+
+---
+
+ 🧩 Intalación
+---
+
+
+
+Para probar la aplicación, ingresa al link y pruebala!!!
+
+ https://x.thunkable.com/copy/32bc8760daac5298d352b01d83945334
+
+ 
 ---
 
 
